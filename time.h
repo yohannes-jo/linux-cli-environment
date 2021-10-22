@@ -32,4 +32,4 @@ std::string date_and_time()
 
   return months[month] + ' ' + day + ", " + year + ' ' + hour + ':' + min + ':' + sec;
 }
-#endif
+#endif // TIME_H
